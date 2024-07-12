@@ -29,7 +29,7 @@ h1 {
 
 .game-board {
   display: grid;
-  grid-template-columns: repeat(7, 150px);
+  grid-template-columns: repeat(5, 150px);
   grid-gap: 10px;
 }
 

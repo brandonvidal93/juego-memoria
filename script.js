@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const images = [
     'memoria-01.jpg', 'memoria-02.jpg', 'memoria-03.jpg', 'memoria-04.jpg', 'memoria-05.jpg', 'memoria-06.jpg', 'memoria-07.jpg',
-    'memoria-08.jpg', 'memoria-09.jpg', 'memoria-10.jpg', 'memoria-11.jpg', 'memoria-12.jpg', 'memoria-13.jpg', 'memoria-14.jpg'
+    'memoria-08.jpg', 'memoria-09.jpg', 'memoria-10.jpg'
   ];
 
   let cards = [];
