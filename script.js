@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const scoreDisplay = document.getElementById('score');
 
   const images = [
-    'memoria-01.jpg', 'memoria-02.jpg', 'memoria-03.jpg', 'memoria-04.jpg', 'memoria-05.jpg', 'memoria-06.jpg', 'memoria-07.jpg',
-    'memoria-08.jpg', 'memoria-09.jpg', 'memoria-10.jpg'
+    'memoria-1.jpg', 'memoria-2.jpg', 'memoria-3.jpg', 'memoria-4.jpg', 'memoria-5.jpg', 'memoria-6.jpg', 'memoria-7.jpg',
+    'memoria-8.jpg'
   ];
 
   let cards = [];
